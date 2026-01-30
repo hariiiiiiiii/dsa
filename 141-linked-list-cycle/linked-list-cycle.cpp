@@ -12,8 +12,8 @@ public:
         if (head && !head->next || head == nullptr){
             return false;
         }
-        ListNode *p1 = head;
-        ListNode *p2 = head;
+        ListNode* p1 = head;
+        ListNode* p2 = head;
         while(p1 && p1->next){
             p2 = p2->next;
             p1 = p1->next->next;

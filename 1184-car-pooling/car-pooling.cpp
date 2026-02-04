@@ -1,23 +1,21 @@
 class Solution {
 public:
     bool carPooling(vector<vector<int>>& trips, int capacity) {
-        //diff array q
-        vector<int> temp(1001,0);
-
-        for(auto& i : trips){
-            int val = i[0];
-            int start = i[1];
-            int end = i[2] - 1;
-
-            temp[start] += val;
-            if(end < 1000)
-                temp[end+1] -= val;
+        vector<pair<int, int>> v;
+        
+        for(int i = 0; i < trips.size(); i++){
+            v.push_back({trips[i][1], trips[i][0]});
+            v.push_back({trips[i][2], -trips[i][0]});
         }
-        int max_cap = temp[0];
-        for(int i = 1;i < 1001;++i){
-            temp[i] += temp[i-1];
-            max_cap = max(max_cap,temp[i]);
+        
+        sort(v.begin(), v.end());
+        
+        int filled = 0;
+        
+        for(int i = 0; i < v.size(); i++){
+            filled += v[i].second;
+            if(filled > capacity) return false;
         }
-        return max_cap <= capacity;
+        return true;
     }
 };

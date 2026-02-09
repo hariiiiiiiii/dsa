@@ -16,7 +16,7 @@ public:
 
         while (curr) {
             ListNode* nextNode = curr->next; 
-            curr->next = prev;               
+            curr->next = prev;              
             prev = curr;                     
             curr = nextNode;                 
         }

@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String Matching
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/hariiiiiiiii/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hariiiiiiiii/dsa/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
@@ -68,4 +69,16 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0098-validate-binary-search-tree](https://github.com/hariiiiiiiii/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hariiiiiiiii/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hariiiiiiiii/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Hash Table
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/hariiiiiiiii/dsa/tree/master/0208-implement-trie-prefix-tree) |
+## Design
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/hariiiiiiiii/dsa/tree/master/0208-implement-trie-prefix-tree) |
+## Trie
+|  |
+| ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/hariiiiiiiii/dsa/tree/master/0208-implement-trie-prefix-tree) |
 <!---LeetCode Topics End-->

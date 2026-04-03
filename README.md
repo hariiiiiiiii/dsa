@@ -81,4 +81,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/hariiiiiiiii/dsa/tree/master/0208-implement-trie-prefix-tree) |
+## Array
+|  |
+| ------- |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/hariiiiiiiii/dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->

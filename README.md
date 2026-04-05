@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hariiiiiiiii/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/hariiiiiiiii/dsa/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/hariiiiiiiii/dsa/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/hariiiiiiiii/dsa/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hariiiiiiiii/dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -92,9 +93,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hariiiiiiiii/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/hariiiiiiiii/dsa/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/hariiiiiiiii/dsa/tree/master/0283-move-zeroes) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/hariiiiiiiii/dsa/tree/master/0136-single-number) |
+## Sorting
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/hariiiiiiiii/dsa/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->

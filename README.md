@@ -89,12 +89,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0136-single-number](https://github.com/hariiiiiiiii/dsa/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/hariiiiiiiii/dsa/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hariiiiiiiii/dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/hariiiiiiiii/dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hariiiiiiiii/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/hariiiiiiiii/dsa/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/hariiiiiiiii/dsa/tree/master/0283-move-zeroes) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/hariiiiiiiii/dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/hariiiiiiiii/dsa/tree/master/0075-sort-colors) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/hariiiiiiiii/dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->

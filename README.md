@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/hariiiiiiiii/dsa/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/hariiiiiiiii/dsa/tree/master/0013-roman-to-integer) |
+| [0151-reverse-words-in-a-string](https://github.com/hariiiiiiiii/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0208-implement-trie-prefix-tree](https://github.com/hariiiiiiiii/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hariiiiiiiii/dsa/tree/master/0572-subtree-of-another-tree) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/hariiiiiiiii/dsa/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hariiiiiiiii/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/hariiiiiiiii/dsa/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/hariiiiiiiii/dsa/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/hariiiiiiiii/dsa/tree/master/0283-move-zeroes) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hariiiiiiiii/dsa/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Bit Manipulation

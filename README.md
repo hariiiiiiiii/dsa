@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/hariiiiiiiii/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hariiiiiiiii/dsa/tree/master/0572-subtree-of-another-tree) |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/hariiiiiiiii/dsa/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Hash Function
 |  |
 | ------- |
@@ -115,4 +116,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/hariiiiiiiii/dsa/tree/master/0560-subarray-sum-equals-k) |
+## Stack
+|  |
+| ------- |
+| [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/hariiiiiiiii/dsa/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->

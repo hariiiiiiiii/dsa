@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## String Matching
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/hariiiiiiiii/dsa/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/hariiiiiiiii/dsa/tree/master/0013-roman-to-integer) |
 | [0208-implement-trie-prefix-tree](https://github.com/hariiiiiiiii/dsa/tree/master/0208-implement-trie-prefix-tree) |
 | [0572-subtree-of-another-tree](https://github.com/hariiiiiiiii/dsa/tree/master/0572-subtree-of-another-tree) |

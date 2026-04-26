@@ -129,4 +129,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/hariiiiiiiii/dsa/tree/master/0013-roman-to-integer) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/hariiiiiiiii/dsa/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->

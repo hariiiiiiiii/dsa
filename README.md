@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/hariiiiiiiii/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/hariiiiiiiii/dsa/tree/master/0075-sort-colors) |
+| [0118-pascals-triangle](https://github.com/hariiiiiiiii/dsa/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/hariiiiiiiii/dsa/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/hariiiiiiiii/dsa/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/hariiiiiiiii/dsa/tree/master/0560-subarray-sum-equals-k) |
@@ -133,4 +134,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/hariiiiiiiii/dsa/tree/master/0175-combine-two-tables) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/hariiiiiiiii/dsa/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->

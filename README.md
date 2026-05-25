@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hariiiiiiiii/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hariiiiiiiii/dsa/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/hariiiiiiiii/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/hariiiiiiiii/dsa/tree/master/0098-validate-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hariiiiiiiii/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hariiiiiiiii/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/hariiiiiiiii/dsa/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/hariiiiiiiii/dsa/tree/master/0035-search-insert-position) |
 | [0075-sort-colors](https://github.com/hariiiiiiiii/dsa/tree/master/0075-sort-colors) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/hariiiiiiiii/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/hariiiiiiiii/dsa/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/hariiiiiiiii/dsa/tree/master/0136-single-number) |
 | [0229-majority-element-ii](https://github.com/hariiiiiiiii/dsa/tree/master/0229-majority-element-ii) |

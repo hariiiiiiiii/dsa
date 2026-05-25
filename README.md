@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0035-search-insert-position](https://github.com/hariiiiiiiii/dsa/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hariiiiiiiii/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0098-validate-binary-search-tree](https://github.com/hariiiiiiiii/dsa/tree/master/0098-validate-binary-search-tree) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/hariiiiiiiii/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hariiiiiiiii/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hariiiiiiiii/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Hash Table
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/hariiiiiiiii/dsa/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0118-pascals-triangle](https://github.com/hariiiiiiiii/dsa/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/hariiiiiiiii/dsa/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/hariiiiiiiii/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/hariiiiiiiii/dsa/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/hariiiiiiiii/dsa/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/hariiiiiiiii/dsa/tree/master/0560-subarray-sum-equals-k) |

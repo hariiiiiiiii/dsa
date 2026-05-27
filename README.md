@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hariiiiiiiii/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/hariiiiiiiii/dsa/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/hariiiiiiiii/dsa/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0540-single-element-in-a-sorted-array](https://github.com/hariiiiiiiii/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/hariiiiiiiii/dsa/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/hariiiiiiiii/dsa/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/hariiiiiiiii/dsa/tree/master/0283-move-zeroes) |
+| [0540-single-element-in-a-sorted-array](https://github.com/hariiiiiiiii/dsa/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/hariiiiiiiii/dsa/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/hariiiiiiiii/dsa/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/hariiiiiiiii/dsa/tree/master/2271-rearrange-array-elements-by-sign) |
